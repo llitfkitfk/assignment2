@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence-diagram version="1.1.2" icons="true">  
+  <object id="1" language="java" name="org.assigment2.demo.GameDemo" project="newAssignment" 
+    file="/newAssignment/src/org/assigment2/demo/GameDemo.java" binary="false" label="gameDemo" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="39" y="0"/>    
+    <execution id="2">      
+      <position height="63" width="97" x="5" y="99"/>    
+    </execution>    
+    <execution id="5">      
+      <position height="273" width="97" x="5" y="197"/>    
+    </execution>    
+    <execution id="8">      
+      <position height="1375" width="97" x="5" y="492"/>    
+    </execution>  
+  </object>  
+  <object id="11" language="java" name="org.assigment2.controller.GameController" project="newAssignment" 
+    file="/newAssignment/src/org/assigment2/controller/GameController.java" binary="false" label="gameController" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="88" y="0"/>    
+    <execution id="4">      
+      <position height="21" width="112" x="106" y="120"/>    
+    </execution>    
+    <execution id="7">      
+      <position height="231" width="112" x="106" y="218"/>    
+    </execution>    
+    <execution id="10">      
+      <position height="1333" width="112" x="106" y="513"/>    
+    </execution>    
+    <execution id="25">      
+      <position height="21" width="0" x="0" y="733"/>    
+    </execution>    
+    <execution id="35">      
+      <position height="21" width="0" x="0" y="1294"/>    
+    </execution>    
+    <execution id="39">      
+      <position height="21" width="0" x="0" y="1424"/>    
+    </execution>    
+    <execution id="43">      
+      <position height="21" width="0" x="0" y="1547"/>    
+    </execution>    
+    <execution id="45">      
+      <position height="21" width="0" x="0" y="1617"/>    
+    </execution>    
+    <execution id="49">      
+      <position height="21" width="0" x="0" y="1739"/>    
+    </execution>    
+    <execution id="51">      
+      <position height="21" width="0" x="0" y="1804"/>    
+    </execution>  
+  </object>  
+  <object id="52" language="java" name="org.assigment2.model.Player" project="newAssignment" 
+    file="/newAssignment/src/org/assigment2/model/Player.java" binary="false" label="player" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="19">      
+      <position height="21" width="0" x="0" y="534"/>    
+    </execution>    
+    <execution id="21">      
+      <position height="21" width="0" x="0" y="576"/>    
+    </execution>    
+    <execution id="27">      
+      <position height="21" width="0" x="0" y="779"/>    
+    </execution>    
+    <execution id="33">      
+      <position height="21" width="0" x="0" y="1212"/>    
+    </execution>    
+    <execution id="37">      
+      <position height="21" width="0" x="0" y="1348"/>    
+    </execution>    
+    <execution id="53">      
+      <position height="21" width="0" x="0" y="939"/>    
+    </execution>    
+    <execution id="54">      
+      <position height="21" width="0" x="0" y="1065"/>    
+    </execution>  
+  </object>  
+  <object id="55" language="java" name="org.assigment2.model.Board" project="newAssignment" 
+    file="/newAssignment/src/org/assigment2/model/Board.java" binary="false" label="board" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="13">      
+      <position height="21" width="0" x="0" y="239"/>    
+    </execution>    
+    <execution id="17">      
+      <position height="21" width="0" x="0" y="407"/>    
+    </execution>    
+    <execution id="29">      
+      <position height="21" width="0" x="0" y="831"/>    
+    </execution>    
+    <execution id="31">      
+      <position height="273" width="0" x="0" y="918"/>    
+    </execution>    
+    <execution id="41">      
+      <position height="21" width="0" x="0" y="1484"/>    
+    </execution>  
+  </object>  
+  <object id="66" language="java" name="org.assigment2.model.BlackStone" project="newAssignment" 
+    file="/newAssignment/src/org/assigment2/model/BlackStone.java" binary="false" label="stone" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="58">      
+      <position height="21" width="0" x="0" y="981"/>    
+    </execution>    
+    <execution id="60">      
+      <position height="21" width="0" x="0" y="1023"/>    
+    </execution>    
+    <execution id="63">      
+      <position height="21" width="0" x="0" y="1107"/>    
+    </execution>    
+    <execution id="65">      
+      <position height="21" width="0" x="0" y="1149"/>    
+    </execution>  
+  </object>  
+  <object id="67" language="java" name="org.assigment2.input.UserInput" project="newAssignment" 
+    file="/newAssignment/src/org/assigment2/input/UserInput.java" binary="false" label="userInput" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="15">      
+      <position height="63" width="0" x="0" y="281"/>    
+    </execution>    
+    <execution id="23">      
+      <position height="63" width="0" x="0" y="628"/>    
+    </execution>    
+    <execution id="47">      
+      <position height="21" width="0" x="0" y="1673"/>    
+    </execution>  
+  </object>  
+  <object id="72" language="java" name="java.util.Scanner" project="newAssignment" 
+    file="C:/Program Files/Java/jdk1.7.0_07/jre/lib/rt.jar" binary="true" label="scanner" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="69">      
+      <position height="21" width="0" x="0" y="302"/>    
+    </execution>    
+    <execution id="71">      
+      <position height="21" width="0" x="0" y="649"/>    
+    </execution>  
+  </object>  
+  <message id="3" operation="GameController()">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </message>  
+  <message id="6" operation="initialGame():void">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="7"/>  
+  </message>  
+  <message id="9" operation="startGame():void">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="10"/>  
+  </message>  
+  <message id="12" operation="Board()">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="13"/>  
+  </message>  
+  <message id="14" operation="UserInput()">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="15"/>  
+  </message>  
+  <message id="16" operation="drawBoard():void">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="17"/>  
+  </message>  
+  <message id="18" operation="Player(java.lang.String)">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="19"/>  
+  </message>  
+  <message id="20" operation="getName():java.lang.String">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="21"/>  
+  </message>  
+  <message id="22" operation="getInput():java.lang.String">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="23"/>  
+  </message>  
+  <message id="24" operation="checkInput(java.lang.String,int):boolean">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="25"/>  
+  </message>  
+  <message id="26" operation="getName():java.lang.String">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="27"/>  
+  </message>  
+  <message id="28" operation="hasStone(int,int):boolean">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="29"/>  
+  </message>  
+  <message id="30" operation="setBoard(int,int,org.assigment2.model.Player):void">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="31"/>  
+  </message>  
+  <message id="32" operation="getName():java.lang.String">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="33"/>  
+  </message>  
+  <message id="34" operation="checkWinner(int,int):boolean">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="35"/>  
+  </message>  
+  <message id="36" operation="getName():java.lang.String">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="37"/>  
+  </message>  
+  <message id="38" operation="endGame():void">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="39"/>  
+  </message>  
+  <message id="40" operation="drawBoard():void">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="41"/>  
+  </message>  
+  <message id="42" operation="nextTurn():void">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="43"/>  
+  </message>  
+  <message id="44" operation="checkGiveUp(java.lang.String):boolean">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="45"/>  
+  </message>  
+  <message id="46" operation="getInput():java.lang.String">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="47"/>  
+  </message>  
+  <message id="48" operation="restartGame():void">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="49"/>  
+  </message>  
+  <message id="50" operation="endGame():void">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="51"/>  
+  </message>  
+  <message id="56" operation="getName():java.lang.String">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="53"/>  
+  </message>  
+  <message id="57" operation="BlackStone(int,int)">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="58"/>  
+  </message>  
+  <message id="59" operation="getType():java.lang.String">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="60"/>  
+  </message>  
+  <message id="61" operation="getName():java.lang.String">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="54"/>  
+  </message>  
+  <message id="62">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="63"/>  
+  </message>  
+  <message id="64" operation="getType():java.lang.String">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="65"/>  
+  </message>  
+  <message id="68" operation="Scanner(java.io.InputStream)">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="69"/>  
+  </message>  
+  <message id="70" operation="nextLine():java.lang.String">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="71"/>  
+  </message>
+</sequence-diagram>
